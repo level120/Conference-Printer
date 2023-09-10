@@ -1,4 +1,4 @@
-﻿namespace MacOS.Print.Models;
+﻿namespace CupsPrinter.Models;
 
 /// <summary>
 /// Meet-Up name tag model.

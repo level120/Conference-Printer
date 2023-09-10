@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
-using MacOS.Print.Attributes;
+using CupsPrinter.Attributes;
 
-namespace MacOS.Print.Structures;
+namespace CupsPrinter.Structures;
 
 /// <summary>
 /// Paper Supported Types.

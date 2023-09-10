@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
-using MacOS.Print.Extensions;
-using MacOS.Print.Structures;
+using CupsPrinter.Extensions;
+using CupsPrinter.Structures;
 
-namespace MacOS.Print.Core;
+namespace CupsPrinter.Core;
 
 /// <summary>
 /// CUPS arguments builder.

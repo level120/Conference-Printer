@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
-using MacOS.Print.Services.Interfaces;
+using CupsPrinter.Services.Interfaces;
 using Microsoft.Extensions.Hosting;
 
-namespace MacOS.Print;
+namespace CupsPrinter;
 
 /// <summary>
 /// Program Host.

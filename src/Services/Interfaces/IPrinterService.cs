@@ -1,4 +1,4 @@
-namespace MacOS.Print.Services.Interfaces;
+namespace CupsPrinter.Services.Interfaces;
 
 /// <summary>
 /// Printer service interface.

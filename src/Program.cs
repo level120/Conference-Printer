@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
-using MacOS.Print.Services;
-using MacOS.Print.Services.Interfaces;
+using CupsPrinter.Services;
+using CupsPrinter.Services.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace MacOS.Print;
+namespace CupsPrinter;
 
 /// <summary>
 /// Entry method.

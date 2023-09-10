@@ -1,11 +1,11 @@
 ﻿using System;
-using MacOS.Print.Extensions;
-using MacOS.Print.Models;
-using MacOS.Print.Structures;
+using CupsPrinter.Extensions;
+using CupsPrinter.Models;
+using CupsPrinter.Structures;
 using QuestPDF.Fluent;
 using QuestPDF.Infrastructure;
 
-namespace MacOS.Print;
+namespace CupsPrinter;
 
 /// <summary>
 /// <see cref="MeetUpNameTagModel"/> Document.

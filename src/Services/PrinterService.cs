@@ -1,12 +1,12 @@
 ﻿using System.Diagnostics;
-using MacOS.Print.Core;
-using MacOS.Print.Models;
-using MacOS.Print.Services.Interfaces;
-using MacOS.Print.Structures;
+using CupsPrinter.Core;
+using CupsPrinter.Models;
+using CupsPrinter.Services.Interfaces;
+using CupsPrinter.Structures;
 using QuestPDF.Fluent;
 using QuestPDF.Infrastructure;
 
-namespace MacOS.Print.Services;
+namespace CupsPrinter.Services;
 
 /// <summary>
 /// Printer Service.

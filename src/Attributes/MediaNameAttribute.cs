@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MacOS.Print.Attributes;
+namespace CupsPrinter.Attributes;
 
 /// <summary>
 /// MediaName attribute.

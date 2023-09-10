@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Reflection;
-using MacOS.Print.Attributes;
-using MacOS.Print.Structures;
+using CupsPrinter.Attributes;
+using CupsPrinter.Structures;
 
-namespace MacOS.Print.Extensions;
+namespace CupsPrinter.Extensions;
 
 /// <summary>
 /// <see cref="PaperType"/> Extensions.
