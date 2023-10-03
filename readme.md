@@ -1,5 +1,8 @@
 # Conference name tag printer program
 
+> This repo moved the Blazor Korean Group
+> https://github.com/blazorstudy/check-in-manager
+
 ## Requirement
 
 ### Common
